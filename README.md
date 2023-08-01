@@ -1,2 +1,2 @@
 # Database and item listing
-School project 
+School project -> dependencies TBD
