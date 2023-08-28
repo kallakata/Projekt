@@ -1,2 +1,2 @@
 # Database and item listing
-School project -> dependencies TBD
+School project for simple low-level database with listing and recording
